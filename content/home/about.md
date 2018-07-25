@@ -29,4 +29,5 @@ weight = 5
 
 # Biography
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Seasoned, well-rounded Software Developer with a decade of experience of working as part of a research team in a lab running large-scale human linguistics studies. Demonstrated independent learner who enjoys learning new languages and frameworks, solving new problems, and improving quality of existing code. History of successful projects, effectively translating domain needs into software. Capable of quickly coming up to speed on new programming languages and frameworks. Contributions to several open source projects.
+
