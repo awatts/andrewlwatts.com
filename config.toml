@@ -23,10 +23,10 @@ preserveTaxonomyNames = true
 paginate = 10
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+# disqusShortname = "awatts"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-35871295-2"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -68,7 +68,7 @@ enableGitInfo = false
   avatar = "awatts.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "andrew.l.watts@gmail.com"
   address = "Rochester, New York, 14618, USA"
-  office_hours = "N/A"
+  # office_hours = "N/A"
   phone = "585-503-5930"
   skype = "andrew.l.watts"
   telegram = ""
@@ -206,7 +206,7 @@ enableGitInfo = false
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    publication_format = 3
+    publication_format = 2
 
   # Social/Academic Networking
   #
@@ -253,10 +253,10 @@ enableGitInfo = false
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  # [[params.social]]
-  #   icon = "cv"
-  #   icon_pack = "ai"
-  #   link = "files/cv.pdf"
+   [[params.social]]
+     icon = "cv"
+     icon_pack = "ai"
+     link = "files/cv.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
