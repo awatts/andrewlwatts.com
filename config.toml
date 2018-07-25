@@ -103,7 +103,7 @@ enableGitInfo = false
   map_api_key = ""
   latitude = "43.127128"
   longitude = "-77.565278"
-  zoom = 15
+  zoom = 13
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
