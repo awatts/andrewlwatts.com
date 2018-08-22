@@ -11,6 +11,8 @@ baseurl = "https://www.andrewlwatts.com/"
 # Title of your site
 title = "Andrew L Watts"
 
+author = "Andrew Watts"
+
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
 copyright = "&copy; 2018"
@@ -39,6 +41,9 @@ enableGitInfo = false
 [outputs]
   home = [ "HTML", "CSS", "RSS" ]
   section = [ "HTML", "RSS" ]
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
 
 # Configure BlackFriday Markdown rendering.
 #   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
