@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e9b0a255-d248-40bc-ab16-d7eca891f703/deploy-status)](https://app.netlify.com/sites/musing-clarke-6b0a6a/deploys)
+
 # Academic Kickstart
 
 **Academic** is a framework to help you create a beautiful website quickly. Perfect for personal, student, or academic websites. [Check out the latest demo](https://themes.gohugo.io/theme/academic/) of what you'll get in less than 10 minutes or [view the documentation](https://sourcethemes.com/academic/docs/).
