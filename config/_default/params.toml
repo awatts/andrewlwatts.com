@@ -136,6 +136,11 @@ date_format = "2006-01-02"
 #   Examples: "3:04 pm" or "15:04"
 time_format = "15:04"
 
+# List delimiter (separates parts of an address)
+# Popular separators are ", " (comma), "<br>" (new line), " " (space)
+list_delimiter = ", "
+
+
 ############################
 ## Advanced
 ############################
@@ -170,6 +175,8 @@ plugins_js  = []
 [address_formats]
   en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', '']}
   en-gb = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ', ', '']}
+  de = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
+  fr-fr = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
   zh = {order = ['postcode', 'region', 'city', 'street'], delimiters = [' ', ' ', ' ', '']}
 
 # Configuration of publication pages.
