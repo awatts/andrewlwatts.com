@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Analyst/Programmer, RDIA Group
+role: Senior Analyst/Programmer, RDIA Group
 
 # Organizations/Affiliations
 organizations:
