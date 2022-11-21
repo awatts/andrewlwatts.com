@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Analyst/Programmer"
+  title = "Research Data Engineer"
   company = "RDIA Group, CTSI, University of Rochester Medical Center"
   company_url = "https://www.urmc.rochester.edu/clinical-translational-science-institute/informatics/research-data-integration-analytics.aspx"
   location = "Rochester, NY"
@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities include:
-  
+
   * Analysing
   * Modelling
   * Deploying
