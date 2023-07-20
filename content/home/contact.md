@@ -39,6 +39,10 @@ content:
       icon_pack: fab
       name: awatts_
       link: 'https://twitter.com/awatts_'
+    - icon: mastodon
+      icon_pack: fab
+      name: '@awatts'
+      link: 'https://universeodon.com/@awatts'
     # - icon: video
     #   icon_pack: fas
     #   name: Zoom Me
