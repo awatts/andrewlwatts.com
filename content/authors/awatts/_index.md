@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Analyst/Programmer, RDIA Group
+role: Research Data Engineer
 
 # Organizations/Affiliations
 organizations:
