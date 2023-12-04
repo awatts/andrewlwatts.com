@@ -1,7 +1,7 @@
 ---
 # Generate Wowchemy CMS
-type: wowchemycms
+type: decap_cms
 outputs:
-  - wowchemycms_config
+  - decap_cms_config
   - HTML
 ---
