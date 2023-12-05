@@ -34,15 +34,11 @@ content:
 #     - 'Monday 10:00 to 13:00'
 #     - 'Wednesday 09:00 to 10:00'
 #   appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: awatts_
-      link: 'https://twitter.com/awatts_'
-    - icon: mastodon
-      icon_pack: fab
-      name: '@awatts'
-      link: 'https://universeodon.com/@awatts'
+#  contact_links:
+#    - icon: twitter
+#      icon_pack: fab
+#      name: awatts_
+#      link: 'https://twitter.com/awatts_'
     # - icon: video
     #   icon_pack: fas
     #   name: Zoom Me

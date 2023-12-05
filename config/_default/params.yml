@@ -19,7 +19,7 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: ''
-    twitter: 'awatts_'
+    twitter: ''
   analytics:
     #google_analytics: 'UA-35871295-2'
     google_tag_manager: 'GTM-NTG73K5'

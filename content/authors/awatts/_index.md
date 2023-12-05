@@ -41,12 +41,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:andrew_watts@urmc.rochester.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: orcid
   icon_pack: fab
-  link: https://twitter.com/awatts_
-- icon: mastodon
-  icon_pack: fab
-  link: https://universeodon.com/@awatts
+  link: https://orcid.org/0000-0001-9144-6494
 - icon: github
   icon_pack: fab
   link: https://github.com/awatts
